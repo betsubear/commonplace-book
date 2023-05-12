@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://betsubear.github.io/commonplace-book/'
 languageCode = 'en-us'
 title = "Ayuma's Digital Garden"
 theme = 'etch'
