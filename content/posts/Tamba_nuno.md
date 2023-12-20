@@ -14,5 +14,5 @@ Nous filons du coton préalablement préparé en cylindres, et l'exercice n'est 
 facile. J'aimerais bien trouver une roue pour m'exercer à filer, et ensuite faire des
 petits tissages.
 
-![image chili](chili.JPG)
+![image chili](/images/tamba_nuno/chili.jpg)
 
