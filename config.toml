@@ -1,4 +1,4 @@
 baseURL = 'https://betsubear.github.io/commonplace-book/'
 languageCode = 'en-us'
-title = "あゆまの"
+title = 'ayumano'
 theme = 'etch'
